@@ -6,6 +6,7 @@ Not AI hype. Field notes from what I'm actually building, breaking, and re-learn
 
 **Open source**
 - [AI Skills Library for Product & Design Teams](https://github.com/designedbythanh/ai-skills-library-product-design): 15 structured AI skills covering the product cycle, Discovery → Shipping
+- [Product & Design Knowledge System](https://github.com/designedbythanh/product-design-knowledge-system): five-layer documentation template that makes design knowledge usable by humans and AI agents
 
 **Built**
 - [Dear Card](https://dearcard.designedbythanh.com): AI postcard app, built solo in a week with Claude Code
