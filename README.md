@@ -5,7 +5,7 @@ I'm a product designer working in B2B SaaS. This is where I share what I build f
 Not AI hype. Field notes from what I'm actually building, breaking, and re-learning.
 
 **Open source**
-- [AI Skills Library for Product & Design Teams](https://github.com/designedbythanh/ai-skills-library-product-design): 15 structured AI skills covering the product cycle, Discovery → Shipping
+- [AI Skills Library for Product & Design Teams](https://github.com/designedbythanh/ai-skills-library-product-design): 16 structured AI skills covering the product cycle, Discovery → Shipping
 - [Product & Design Knowledge System](https://github.com/designedbythanh/product-design-knowledge-system): five-layer documentation template that makes design knowledge usable by humans and AI agents
 
 **Built**
